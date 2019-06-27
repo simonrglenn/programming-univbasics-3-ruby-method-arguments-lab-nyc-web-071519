@@ -11,5 +11,5 @@ def introduction_with_language_optional (name, language = "Ruby")
 end
 
 
-tion_with_language_optional takes in two arguments, a name and a language, and language defaults to Ruby
-rspec ./spec/introduction_spec.rb:24 # #introduction_with_language_optional takes in two arguments, a name and a language, language can be optional or defined
+#tion_with_language_optional takes in two arguments, a name and a language, and language defaults to Ruby
+#rspec ./spec/introduction_spec.rb:24 # #introduction_with_language_optional takes in two arguments, a name and a language, language can be optional or defined
